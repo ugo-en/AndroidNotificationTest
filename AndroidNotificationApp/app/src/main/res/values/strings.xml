@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="toast_notification">Toast Notification</string>
+    <string name="snackbar_notification">SnackBar Notification</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="custom_notification">Custom Notification</string>
+    <string name="custom_image">Custom Image</string>
+    <string name="sample_notification">Sample Notif</string>
+    <string name="sample_notification_extra">This is a sample notification</string>
+    <string name="this_is_a_sample_notification">This is a sample notification</string>
+    <string name="sample_snackbar">Sample SnackBar</string>
+    <string name="channel_name">Sample Channel</string>
+    <string name="channel_description">Description of sample notification</string>
+</resources>
